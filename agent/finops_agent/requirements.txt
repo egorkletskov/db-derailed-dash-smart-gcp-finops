@@ -268,7 +268,7 @@ jiter==0.16.0
     # via openai
 joblib==1.5.3
     # via scikit-learn
-joserfc==1.7.2
+joserfc==1.7.6
     # via authlib
 jsonschema==4.26.0
     # via
